@@ -53,3 +53,8 @@
 
 #### Gitee
 
+[Gitee缓存仓库](https://gitee.com/FredWQS/NJZFLSc2g2022-Emoji-library)
+
+如果你GitHub总是加载失败，请使用此方法
+
+因为是缓存仓库，表情包可能更新不及时，请注意
