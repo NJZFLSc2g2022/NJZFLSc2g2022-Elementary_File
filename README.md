@@ -18,3 +18,16 @@
 ## ⚠️上传/下载前请阅读⚠️
 
 许可证【署名—相同方式共享4.0公共许可协议国际版(CC BY-SA 4.0)】[摘要版](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) [全文版](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)
+
+## 下载/上传方法
+
+### 下载
+
+因为GitHub的源服务器在美国加利福利亚，在中国访问很慢(图片是根本加载不出来的)，因此想出两个对策
+
+#### 文件加速器
+
+如果你能加载出GitHub，并一看表情包的中文就知道这张表情包的样子，我们推荐你使用这种方法
+
+[GitHub 文件加速](https://gh.api.99988866.xyz)
+
