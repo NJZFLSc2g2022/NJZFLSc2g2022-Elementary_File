@@ -13,5 +13,4 @@
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
 
-南京郑和外国语学校2022届2班-表情包库
-
+***
