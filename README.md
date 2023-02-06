@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://github.com/widget-js/widgets">
-  <img width="200" src="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png" alt="Widgets - Capable and ergonomic widgets." width="300">
+  <img width="200" src="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png" alt="Widgets - Capable and ergonomic widgets." width="50">
 </a>
 <br>
-Tangel OS
+南京郑和外国语学校2022届2班-表情包库
 </p>
 
 <p align="center">
