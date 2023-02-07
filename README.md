@@ -87,6 +87,8 @@
 
 [Pull request](github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/pulls)
 
-### 贡献者
+## 贡献者
 
 [贡献者名单](/contributors.md)
+
+[贡献者公约](/CODE_OF_CONDUCT.md)
