@@ -70,3 +70,19 @@
 5.完成
 
 ### 上传
+
+**上传要求**
+
+给你上传的表情包添加一段文字叙述(为了更好的整理)
+
+上传类别:比如说`飞哥`
+
+#### [推荐]发邮箱
+
+[fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com)
+
+我这边上传的快一点
+
+#### Pull requests
+
+[Pull request](github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/pulls)
