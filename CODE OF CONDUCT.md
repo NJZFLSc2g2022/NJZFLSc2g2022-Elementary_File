@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/main%20contributor-Quansen%20Wang-brightgreen" alt="">
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
+
 # 南京郑和外国语学校2022届2班-表情包库 贡献者公约
 
 ## 我们的承诺
@@ -60,7 +61,7 @@
 
 ## 贯彻落实
 
-如遇滥用、骚扰等不当行为，请通过 fred_wangquansen@qq.com 向我们举报。我们将迅速审议并调查全部投诉。
+如遇滥用、骚扰等不当行为，请通过 [fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com) 向我们举报。我们将迅速审议并调查全部投诉。
 
 社区全体负责人有义务保密举报者信息。
 
