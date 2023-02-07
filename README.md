@@ -77,7 +77,7 @@
 
 上传类别:比如说`飞哥`
 
-#### [推荐]发邮箱
+#### [推荐]邮箱
 
 [fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com)
 
@@ -86,3 +86,7 @@
 #### Pull requests
 
 [Pull request](github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/pulls)
+
+### 贡献者
+
+[贡献有名单](/contributors.md)
