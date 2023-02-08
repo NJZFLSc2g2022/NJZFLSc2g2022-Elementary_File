@@ -22,6 +22,6 @@
 这一个分支就是专门来**飞哥**的表情包的
 
 <p align="center">
-<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library">
-  <img width="150" src="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png" alt="NZFLS 2022届2班" width="300">
+<a href="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/%E9%A3%9E%E5%93%A5/%E8%8B%B1%E9%9B%84%E5%8F%AF%E4%BB%A5%E5%8F%97%E5%A7%94%E5%B1%88%EF%BC%8C%E4%BD%86%E4%BD%A0%E4%B8%8D%E8%83%BD%E8%B8%A9%E6%88%91%E7%9A%84%E5%88%87%E5%B0%94%E8%A5%BF.jpg>
+  <img width="150" src="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/%E9%A3%9E%E5%93%A5/%E8%8B%B1%E9%9B%84%E5%8F%AF%E4%BB%A5%E5%8F%97%E5%A7%94%E5%B1%88%EF%BC%8C%E4%BD%86%E4%BD%A0%E4%B8%8D%E8%83%BD%E8%B8%A9%E6%88%91%E7%9A%84%E5%88%87%E5%B0%94%E8%A5%BF.jpg" alt="NZFLS 2022届2班" width="300">
 </a>
