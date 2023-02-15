@@ -25,7 +25,7 @@
 
 因为GitHub的源服务器在美国加利福利亚，在中国访问很慢(图片是根本加载不出来的)(e.g.下载一张214kB的图片需要15分钟)
 
-因此想出两个对策
+因此想出使用 _文件加速下载器_ 的对策
 
 [Gitee缓存仓库](https://gitee.com/FredWQS/NJZFLSc2g2022-Emoji-library)
 
