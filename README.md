@@ -48,10 +48,11 @@
 
 #### 文件加速器
 
+❗**提示** 必须使用(否则无法下载)
 
-如果你能加载出GitHub，并一看表情包的中文就知道这张表情包的样子，我们推荐你使用这种方法
+- [GitHub 文件加速](https://gh.api.99988866.xyz)
 
-[GitHub 文件加速](https://gh.api.99988866.xyz)
+- [Github Proxy](https://ghproxy.com/)
 
 方法很简单
 
