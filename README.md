@@ -27,7 +27,6 @@
 
 因此想出使用 _文件加速下载器_ 的对策
 
-[Gitee缓存仓库](https://gitee.com/FredWQS/NJZFLSc2g2022-Emoji-library)
 #### 仓库地址
 
 ##### GitHub
@@ -38,6 +37,14 @@
 并一看表情包的中文就知道这张表情包的样子
 
 我们推荐你使用这种方法
+
+##### Gitee
+
+[Gitee缓存仓库](https://gitee.com/FredWQS/NJZFLSc2g2022-Emoji-library)
+
+如果你GitHub总是加载失败，请使用此方法
+
+因为是缓存仓库，表情包可能更新不及时
 
 #### 文件加速器
 
