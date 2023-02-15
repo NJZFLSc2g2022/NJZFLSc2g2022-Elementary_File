@@ -28,8 +28,17 @@
 因此想出使用 _文件加速下载器_ 的对策
 
 [Gitee缓存仓库](https://gitee.com/FredWQS/NJZFLSc2g2022-Emoji-library)
+#### 仓库地址
 
+##### GitHub
 [GitHub仓库](https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library)
+
+如果你能加载出GitHub
+
+并一看表情包的中文就知道这张表情包的样子
+
+我们推荐你使用这种方法
+
 #### 文件加速器
 
 
