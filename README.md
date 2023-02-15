@@ -27,7 +27,11 @@
 
 因此想出两个对策
 
+[Gitee缓存仓库](https://gitee.com/FredWQS/NJZFLSc2g2022-Emoji-library)
+
+[GitHub仓库](https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library)
 #### 文件加速器
+
 
 如果你能加载出GitHub，并一看表情包的中文就知道这张表情包的样子，我们推荐你使用这种方法
 
