@@ -81,7 +81,7 @@
 
 #### [推荐]邮箱
 
-[fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com)
+[emoji@nzcae.eu.org](mailto:emoji@nzcae.eu.org)
 
 我这边上传的快一点
 
