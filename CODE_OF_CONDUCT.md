@@ -3,7 +3,7 @@
   <img width="150" src="https://github.com/NJZFLSc2g2022/NJZFLSc2g2022-Emoji-library/blob/main/NZFLS%202022%E5%B1%8A2%E7%8F%AD.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
-南京郑和外国语学校2022届2班-表情包库
+南京郑和外国语学校2022届2班-库
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
 
-# 南京郑和外国语学校2022届2班-表情包库 贡献者公约
+# 南京郑和外国语学校2022届2班 贡献者公约
 
 ## 我们的承诺
 
