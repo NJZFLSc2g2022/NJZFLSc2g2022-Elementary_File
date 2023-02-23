@@ -47,6 +47,26 @@
 
 ##### [推荐]网站
 
+1.找到你想要的表情包
+
+2.点击表情包的名称
+
+3.复制文件路径
+
+Github
+
+![Github](https://user-images.githubusercontent.com/91039316/220883817-71997f88-3b05-463d-9926-55238189436f.PNG)
+
+Gitee
+
+![Gitee](https://user-images.githubusercontent.com/91039316/220883848-5b06196f-32dd-4d90-b456-893cae2b240e.PNG)
+
+4.文件路径做`emoji.nzcae.eu.org`后缀
+
+e.g.复制出`表情包/飞哥/英雄可以受委屈，但你不能踩我的切尔西.jpg`，访问网址为`emoji.nzcae.eu.org/表情包/飞哥/英雄可以受委屈，但你不能踩我的切尔西.jpg`
+
+
+
 ##### 文件加速器
 
 - [GitHub 文件加速](https://gh.api.99988866.xyz)
