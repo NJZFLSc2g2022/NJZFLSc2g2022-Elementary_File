@@ -64,7 +64,7 @@ permalink: /CODE_OF_CONDUCT.md
 
 ## 贯彻落实
 
-如遇滥用、骚扰等不当行为，请通过 [fred_wangquansen@qq.com](mailto:fred_wangquansen@qq.com) 向我们举报。我们将迅速审议并调查全部投诉。
+如遇滥用、骚扰等不当行为，请通过 [inform@nzcae.eu.org](mailto:inform@nzcae.eu.org) 向我们举报。我们将迅速审议并调查全部投诉。
 
 社区全体负责人有义务保密举报者信息。
 
