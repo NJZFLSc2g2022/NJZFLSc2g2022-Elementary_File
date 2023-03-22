@@ -98,7 +98,7 @@ permalink: /CODE_OF_CONDUCT.md
 
 ## 来源
 
-本行为标准改编自[参与者公约][homepage]2.0 版，可在此查阅：[https://www.contributor-covenant.org/zh-cn/version/2/0/code_of_conduct.html][v2.0]
+本行为标准改编自[参与者公约][https://www.contributor-covenant.org]2.0 版，可在[此][https://www.contributor-covenant.org/version/2/0/code_of_conduct.html]查阅
 
 指导方针借鉴自[Mozilla 纪检分级][mozilla coc]。
 
@@ -108,7 +108,7 @@ permalink: /CODE_OF_CONDUCT.md
 
 [homepage]: https://www.contributor-covenant.org
 
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+[v2.0]: 
 
 [mozilla coc]: https://github.com/mozilla/diversity
 
