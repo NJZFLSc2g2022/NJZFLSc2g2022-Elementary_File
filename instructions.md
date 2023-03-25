@@ -13,3 +13,6 @@
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
 
+#对于《四世同堂》的说明
+
+**这是四世同堂的电子版，欢迎阅读**
