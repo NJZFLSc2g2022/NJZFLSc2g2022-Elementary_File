@@ -14,6 +14,8 @@
 
 ***
 
+> ❗**注意** 如果本仓库侵犯了您的权益(肖像权等)，请通过 inform@nzcae.eu.org 向我们举报。我们将迅速审议并调查全部投诉。
+
 ## ⚠️上传/下载前请阅读⚠️
 
 许可证【署名—相同方式共享4.0公共许可协议国际版(CC BY-SA 4.0)】[摘要版](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) [全文版](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)
