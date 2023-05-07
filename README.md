@@ -3,7 +3,7 @@
   <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022届2班.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
-南京郑和外国语学校2022届2班-库
+南京郑和外国语学校2022届2班-基础库
 </p>
 
 <p align="center">
