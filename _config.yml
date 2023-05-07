@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: 南京郑和外国语学校2022届2班-表情包库
+title: 南京郑和外国语学校2022届2班-基础库
 show_downloads: false
