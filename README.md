@@ -3,7 +3,7 @@
   <img width="150" src="https://elem.nzcae.eu.org/NZFLS%202022届2班.png" alt="NZFLS 2022届2班" width="300">
 </a>
 <br>
-南京郑和外国语学校2022届2班-基础库
+南京郑和外国语学校2022届2班-基础文件库
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/main%20contributor-Quansen%20Wang-brightgreen" alt="">
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
+
+[南京郑和外国语学校2022届2班](https://github.com/NJZFLSc2g2022)的基础文件存储池
 
 ## 贡献者
 
