@@ -12,7 +12,11 @@
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
 
+## 这玩意干什么的?
+
 [南京郑和外国语学校2022届2班](https://github.com/NJZFLSc2g2022)的基础文件存储池
+
+### 表情包库去哪了
 
 ## 贡献者
 
